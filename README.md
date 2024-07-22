@@ -1,2 +1,4 @@
 # GIT_DEMO
-First time creating a repo 
+Hey , I am Ankush Mohanty.
+<br>
+This is my first Demo Repository.
